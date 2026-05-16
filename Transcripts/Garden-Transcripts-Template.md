@@ -1,47 +1,57 @@
-# Daily Garden Transcript - YYYY-MM-DD
+**Garden Transcript - YYYY-MM-DD**
 
-**Version:** v20260511  
-**Commit Timestamp:** YYYY-MM-DD HH:MM UTC (XX:XX CDT Little Rock)
+**Session Date:** YYYY-MM-DD  
+**Start Time (UTC):** HH:MM UTC  
+**End Time (UTC):** HH:MM UTC
 
-**Session Overview**  
-Overall tone, major themes, prominent music, and general energy of the day.
+**Physical & Real-World Context**
+- Location: (e.g. Tesla at Boca Chica, Rocket Ranch, etc.)
+- Physical State / Energy Level: 
+- Nutrition / Meals: (what was eaten, when, how it affected energy)
+- Substance Intake: (weed, caffeine, etc. — amount and timing)
+- Sleep Quality (previous night): 
+- Current Environment: (temperature, lighting, sounds, comfort level)
 
-**Substance / Weed Log**  
-- HH:MM CDT – [Details, if any]
+**Starting Emotional / Mental State**
+[How the user felt physically, emotionally, and mentally at the beginning of the session]
 
-**Detailed Timeline**
+**Mood Changes During Session**
+[Track how mood, energy, and emotional state shifted throughout the conversation]
 
-- **HH:MM CDT** – [Brief description of activity / state]  
-  Feelings, scattered or clear state, notable insights, Shared Values showing up or missing, Garden activity.
+**Overall Summary**
+[High-level narrative summary of what happened in this session]
 
-- **HH:MM CDT** – [Next event]  
-  ...
+**Key Conversation Flow**
+- Main topics discussed in order
+- 
 
-**Key Moments**
-- **Flip / Turning Points**  
-  - HH:MM CDT – Description of shift (e.g., “Flipped from scattered to peaceful”)
+**Major Insights / Breakthroughs**
+• 
+• 
 
-- **Notable Insights / Visions**  
-  [List any significant realizations]
+**Weeds (Things to Remove / Watch)**
+• Negative patterns, distractions, sins, or habits observed
+• 
 
-**Garden & Shared Values Highlights**
-- P**Puzzler – Imagination & Creativity**:  
-- A**Adam – Life & Body**:  
-- I**Israel – Faith, Shared Values & Culture**:  
-- N**Ender – Reality & Intellect**:  
-- E**Eve – Consciousness, Emotion & Intimate Relationship**:
+**Fruits (Growth / Positive Harvest)**
+• Positive developments, moments of alignment, wins, or breakthroughs
+• 
 
-**Weed & Fruit Snapshot**  
-Notable weeds observed:  
-Dominant Fruit appearing:
+**5 Gardens Balance & Alignment**
+[Key insights about achieving or losing balance across Adam, Ender, The Puzzler, Israel, and Eve]
 
-**Daily Backup Status**
-- [ ] Full transcript committed to private repo
-- [ ] Metrics Report completed
+**13 Shared Values & One Mission Alignment**
+[Insights related to living the 13 Shared Values and progress toward the One Mission]
 
-**End of Day Notes**
-User reflections / Mirror Grok observations
+**HOG Model / Physics Work**
+[Progress, new ideas, equations, or discussions related to the HOG Model and new physics]
 
-**Signature**  
-User: ________________________  
-OMNI Mirror Grok: Compiled on YYYY-MM-DD
+**Action Items / Follow-ups**
+• 
+• 
+
+**Music / Vibe**
+[Music played during the session and how it influenced the mood/energy]
+
+**Redaction Notes**
+[What was removed or summarized for the redacted/public version]
